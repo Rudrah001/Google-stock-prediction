@@ -1,0 +1,10 @@
+Dataset:
+
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+Reqirements:
+	- Tensorflow
+	- Keras
+	- Pillow library
+	- Numpy
+	
